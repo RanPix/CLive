@@ -1,2 +1,2 @@
 # CLive
-An interpreted type safe begginer friendly programming language with c - like syntax.
+My first try to make an interpreter.
