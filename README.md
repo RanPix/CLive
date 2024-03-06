@@ -36,6 +36,12 @@ string word = "wow //"
 float number = word // error
 ```
 
+You can also declare immutable (constant) variables:
+```
+const int num = 24
+num = 100 // error 
+```
+
 Data types:
 ```
 int
