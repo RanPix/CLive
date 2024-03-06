@@ -30,7 +30,7 @@ float xd = 24
 a = xd + 24
 ```
 
-You cannot combine a variable of different types:
+You cannot assign a value to a variable of a different type:
 ```
 string word = "wow //"
 float number = word // error
