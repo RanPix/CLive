@@ -47,7 +47,8 @@ Todo:
   - more datatypes
   - if - else and while statements
   - functions
-  - simple standard library 
+  - simple standard library
+  - Classes
 
 
 
