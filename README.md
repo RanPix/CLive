@@ -41,6 +41,8 @@ Data types:
 int
 float
 string
+bool
+null (idk if this counts as a data type)
 ```
 
 Todo:
