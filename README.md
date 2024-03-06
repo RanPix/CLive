@@ -48,3 +48,7 @@ Todo:
   - if - else and while statements
   - functions
   - simple standard library 
+
+
+
+Also, the name of the language is pronounced like - `C - Live` not `klive` or something the words are separated.
